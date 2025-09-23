@@ -21,13 +21,25 @@
 title: Ravi Mohan Polymer Informatics Portfolio
 email: ravimohan19@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Polymer Informatics is a budding field that utilizes data-driven approaches to 
+  solve complex problems in polymer science. Some of the common problems are accurate representation of polymers,
+  computation of properties at different scales, prediction of usability in end product applications,
+  and understanding of the degradation and wear in service and storage. My research focuses on these areas,
+  and the portfolio contains my work in this field.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  ravimohan01
+
+# Author information
+author:
+  name: Ravi Mohan
+  email: ravimohan19@gmail.com
+  picture: /assets/images/profile-picture.jpg
+  bio: >-
+    Polymer Informatics researcher focused on data-driven approaches to 
+    solve complex problems in polymer science including accurate representation of polymers,
+    computation of properties at different scales, and prediction of usability in end applications.
 
 # Build settings
 theme: minima
